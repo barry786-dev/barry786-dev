@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @barry786-dev
 - 👀 I’m interested in web devlopment and sport
-- 🌱 I’m currently have two year experience in HTML , CSS , JS, React , Nodejs , Express, MongoDB ,MySQL, SASS, Bootstarp , git , npm , 
+- 🌱 I’m currently have experience in HTML , CSS , JS, React , Nodejs , Express, MongoDB ,MySQL, SASS, Bootstarp , git , npm , 
 - 💞️ I’m looking to collaborate on on web projects, microcontroller projects
 - 📫 How to reach me :  mbrsy@yahoo.com mobile phone : +49-1578-4446611
 
